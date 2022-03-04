@@ -17,15 +17,19 @@
               <a href="#Home" class="nav-link text-white text-header">Home</a>
             </li>
             <li class="nav-item">
-              <a href="#Work" class="nav-link text-white text-header"
+              <a href="#OurWork" class="nav-link text-white text-header"
                 >Our Work</a
               >
             </li>
             <li class="nav-item">
-              <a href="#" class="nav-link text-white text-header">Our Values</a>
+              <a href="#Value" class="nav-link text-white text-header"
+                >Our Values</a
+              >
             </li>
             <li class="nav-item">
-              <a href="#" class="nav-link text-white text-header">Contact</a>
+              <a href="#Contact" class="nav-link text-white text-header"
+                >Contact</a
+              >
             </li>
           </ul>
         </header>

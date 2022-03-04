@@ -1,6 +1,6 @@
 <template>
   <div>
-    <!-- <Header /> -->
+    <Header />
     <Home />
     <Work />
     <Value />
@@ -9,7 +9,7 @@
 </template>
 
 <script>
-// import Header from "../components/Header.vue";
+import Header from "../components/Header.vue";
 import Home from "../components/Home.vue";
 import Work from "../components/Work.vue";
 import Value from "../components/Value.vue";
@@ -18,7 +18,7 @@ export default {
   name: "Landingpage",
 
   components: {
-    // Header,
+    Header,
     Home,
     Work,
     Value,
